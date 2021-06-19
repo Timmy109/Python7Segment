@@ -4,7 +4,7 @@ import time
 speed = 0.07
 
 x = 1
-while x = 1:
+while x == 1:
 
 GPIO.setmode(GPIO.BCM)
 GPIO.setup(21, GPIO.OUT)
